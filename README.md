@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hiya!
+Hiya! Welcome to my coding corner! Hope you all enjoy!
 - 🔭 I’m currently studying at King's College London
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: arilijx30@outlook.com
